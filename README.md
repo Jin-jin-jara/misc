@@ -1,2 +1,2 @@
 # misc
-useful buy miscellaneous code
+useful but miscellaneous code
